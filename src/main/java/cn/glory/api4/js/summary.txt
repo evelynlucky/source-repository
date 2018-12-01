@@ -1,0 +1,8 @@
+处理javaScript的alert弹窗
+处理javaScript的confirm弹窗
+处理javaScript的prompt弹窗
+通过标题识别弹窗
+通过源码识别弹窗
+操作frame
+操作iframe
+操作浏览器的cookie
